@@ -2,4 +2,4 @@ You decide that a locked door is no match for your wits, and you search undernea
 
 [Give up](../choice-02/give-up.md)
 
-[Search the bed](../choice-02/search-bed/md)
+[Search the bed](../choice-02/search-bed.md)
