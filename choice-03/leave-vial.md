@@ -2,4 +2,4 @@ You choose to leave the vial there and unlock the door. Walking out, you see 2 h
 
 [Left Hallway](../choice-04/left-hall)
 
-[Right Hallway](../choice-04/right-wall)
+[Right Hallway](../choice-04/right-hall)
