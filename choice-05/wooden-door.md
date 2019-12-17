@@ -2,4 +2,4 @@ You figure that someone may be in need of assistance, so you open the door and t
 
 [Step back into the hall?](keep-walking.md/)
 
-[Strike up a conversation?](../last-choice)
+[Strike up a conversation?](../last-choice/bruh-death.md)
